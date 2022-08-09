@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-deposit",
+        "command": "slot-deposit:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-deposit",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-deposit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

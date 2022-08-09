@@ -1,0 +1,18 @@
+{
+  "name": "slot-deposit",
+  "main": "./lib/slot-deposit",
+  "version": "1.0.0",
+  "description": "Info Bet Terkecil Ini Daftar Slot Deposit Paling Jitu",
+  "keywords": ["agen slot terbaik","toptrend gaming","slot joker123","game slot terbaik","agen toto play","bandar slot online","habanero slot","pocket gaming soft","slot pg soft"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-deposit:toggle"
+  },
+  "repository": "https://github.com/trikslot/slot-deposit",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
