@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Info Gampang Menang Ini Daftar Slot Deposit Deposit 10Rb](https://atom.io/packages/slot-deposit)
-## :star: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :green_heart: <<< 
-## :heart_decoration: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/) :zap: <<< 
-## :star: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :star2: <<< 
+## :star: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :green_heart: <<< 
+## :heart_decoration: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/) :zap: <<< 
+## :star: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :star2: <<< 
 
 ## Informasi Situs /Server Kami : 
 
